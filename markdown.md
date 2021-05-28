@@ -1,7 +1,7 @@
 # EMERSON VANDEPUTTE
 
 
-*Each of us, in our life, has our own mountain to climb - Mike Hor*
+*Each of us, in our life, has our own mountain to climb - Mike Horn*
 
 ![MOI](https://avatars.githubusercontent.com/u/71194958?u=675d397bba23c642c15e32d240fadb231b5e75be&v=4)
 
@@ -34,7 +34,7 @@ nourriture péférée | pasta
 	* Ecoute active
 
 ### Vous pouvez toujours compter sur moi 
-Grace à vous, je me transforme de boule, à prof, à boulet, à prof,...
+Grace à vous, je me transforme de boulet, à prof, à boulet, à prof,...
 
 #### FUN story
 Quand j'etais petit j'ai déversé la bouteille de coco chanel sur le chien.
@@ -43,4 +43,4 @@ Quand j'etais petit j'ai déversé la bouteille de coco chanel sur le chien.
 
 
 
-<< [ELSA](https://github.com/Magael/WebDev/blob/Markdown/README.md) | [EMERSON] |[EVELYNE](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) >>
+<< [ELSA](https://github.com/Magael/WebDev/blob/Markdown/README.md) | [EMERSON] |  [EVELYNE](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) >>
