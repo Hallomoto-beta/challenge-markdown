@@ -2,7 +2,7 @@
 
 *Each of us, in our life, has our own mountain to climb - Mike Hor*
 
-![MOI](/images/logo.jpg/Users/emersonvandeputte/Desktop/IMG_2763.jpg)
+![MOI](https://avatars.githubusercontent.com/u/71194958?u=675d397bba23c642c15e32d240fadb231b5e75be&v=4)
 
 ## Bienvenue sur la page du Singe
 
@@ -37,12 +37,9 @@ Grace à vous, je me transforme de boule, à prof, à boulet, à prof,...
 #### FUN story
 Quand j'etais petit j'ai déversé la bouteille de coco chanel sur le chien.
 
-TL;DR chien/parfum/ maman pret à me tuer et jeter à la poubelle :-p
+####TL;DR chien/parfum/ maman pret à me tuer et jeter à la poubelle :-p
 
 
 
 << [ELSA](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) || [EMERSON](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) ||[EVELYNE](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) >>
-
-
-
 
