@@ -21,13 +21,13 @@ nourriture péférée | pasta
 ### Loisir
 
 * Sport
-	*tennis
+	* tennis
 	 
 * La nourriture
 * Netflix
 * Sciences
-	*Fonctionement du corps
-	*Chimie
+	* Fonctionement du corps
+	* Chimie
 * Neurosciences
 	* Hypnose
 	* Psychologie positive
@@ -39,8 +39,8 @@ Grace à vous, je me transforme de boule, à prof, à boulet, à prof,...
 #### FUN story
 Quand j'etais petit j'ai déversé la bouteille de coco chanel sur le chien.
 
-#### TL;DR chien/parfum/ maman pret à me tuer et jeter à la poubelle :-p
+#### TL;DR chien/parfum/ maman pret à me tuer et jeter à la poubelle :rocket:
 
 
 
-<< [ELSA](https://github.com/Magael/WebDev/blob/Markdown/README.md) | [EMERSON] ||[EVELYNE](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) >>
+<< [ELSA](https://github.com/Magael/WebDev/blob/Markdown/README.md) | [EMERSON] |[EVELYNE](https://github.com/EvelyneCG/challenge-markdown/blob/main/MarkDown.md) >>
